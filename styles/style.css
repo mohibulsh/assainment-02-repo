@@ -232,6 +232,9 @@ body{
     .container, .header-main-banner img,.love-enjoy-img img,.sponspors-main-img img{
         width: 100%;
     } 
+    .nav-menu ul{
+        gap: 20px;
+    }
     .header-main-banner{
         padding: 10px;
     }
@@ -291,7 +294,7 @@ body{
         padding: 10px;
     }
     .nav-menu ul{
-        gap: 50px;
+        gap: 30px;
     }
     .header-main,.facts-main{
         padding:15px;
